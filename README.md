@@ -57,3 +57,5 @@ Using Spotlight or Alfred ( <kbd>⌘</kbd> + <kbd>Spacebar</kbd> ), look for "sy
   - Optionally, you can use Karabiner to configure it to be <kbd>escape</kbd>
 - Dock > Automatically hide and show the Dock
   - I frequently toggle this for more screen real estate using: <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>D</kbd>
+
+Additionally, look into using a tool like Karabiner - it makes remapping keys a breeze on your machine. My personal preference is to modify the Microsoft keyboards I use on my setup, as well as mapping global keyboard repeat speeds to be even faster than what we can achieve using OSX's system settings.
