@@ -58,4 +58,20 @@ Using Spotlight or Alfred ( <kbd>⌘</kbd> + <kbd>Spacebar</kbd> ), look for "sy
 - Dock > Automatically hide and show the Dock
   - I frequently toggle this for more screen real estate using: <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>D</kbd>
 
+Some users prefer to use keyboards intended for Windows machines - you'll want to go to your Keyboard settings and swap the Modifier Keys. Just follow these simple instructions to get setup:
+
+- Keyboard > Modifier Keys... > Select Keyboard (pick the non-default keyboard)
+- Your settings should then read as follows:
+ * Caps Lock: Control (as previously mentioned, this is a personal preference)
+ * Control: Control
+ * Option: Option
+ * Command: Command
+
 Additionally, look into using a tool like Karabiner - it makes remapping keys a breeze on your machine. My personal preference is to modify the Microsoft keyboards I use on my setup, as well as mapping global keyboard repeat speeds to be even faster than what we can achieve using OSX's system settings.
+
+- Open Karabiner > Preferences > Key Repeat (top tab):
+ - Your settings should read as follows:
+ * On/Off (overwrite should be toggled)
+ * Parameters:
+  * Delay until repeat: 250ms 
+  * Key repeat: 20ms
